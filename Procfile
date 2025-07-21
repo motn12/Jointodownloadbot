@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: cd / && python bot.py
